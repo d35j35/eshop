@@ -10,12 +10,14 @@ html {
 
 body {
     box-sizing: border-box;
+    font-family: IRANSansX;
     margin: 0;
 }
 
 ul {
     padding: 0;
     margin: 0;
+    list-style: none;
 }
 a{
     text-decoration: none;

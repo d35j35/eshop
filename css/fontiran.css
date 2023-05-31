@@ -1,0 +1,101 @@
+﻿@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 100;
+	src: url('../fonts/iransans/woff/IRANSansX-thin.woff') format('woff'),   
+	url('../fonts/iransans/woff2/IRANSansX-thin.woff2') format('woff2'),
+	url('../fonts/iransans/ttf/IRANsansX-thin.ttf') format('ttf'),
+	url('../fonts/iransans/eot/IRANSansX-thin.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/iransans/otf/IRANsansX-thin.otf') format('otf');
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 200;
+	src: url('../fonts/iransans/woff/IRANSansX-UltraLight.woff') format('woff'),   
+	url('../fonts/iransans/woff2/IRANSansX-UltraLight.woff2') format('woff2'),
+	url('../fonts/iransans/ttf/IRANsansX-ULtralight.ttf') format('ttf'),
+	url('../fonts/iransans/eot/IRANSansX-ULtralight.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/iransans/otf/IRANsansX-ULtralight.otf') format('otf');
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 300;
+	src: url('../fonts/iransans/woff/IRANSansX-light.woff') format('woff'),   
+	url('../fonts/iransans/woff2/IRANSansX-light.woff2') format('woff2'),
+	url('../fonts/iransans/ttf/IRANsansX-light.ttf') format('ttf'),
+	url('../fonts/iransans/eot/IRANSansX-light.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/iransans/otf/IRANsansX-light.otf') format('otf');		 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 500;
+	src: url('../fonts/iransans/woff/IRANSansX-medium.woff') format('woff'),   
+	url('../fonts/iransans/woff2/IRANSansX-medium.woff2') format('woff2'),
+	url('../fonts/iransans/ttf/IRANsansX-medium.ttf') format('ttf'),
+	url('../fonts/iransans/eot/IRANSansX-medium.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/iransans/otf/IRANsansX-medium.otf') format('otf');	 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 600;
+	src: url('../fonts/iransans/woff/IRANSansX-demibold.woff') format('woff'),   
+	url('../fonts/iransans/woff2/IRANSansX-demibold.woff2') format('woff2'),
+	url('../fonts/iransans/ttf/IRANsansX-demibold.ttf') format('ttf'),
+	url('../fonts/iransans/eot/IRANSansX-demibold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/iransans/otf/IRANsansX-demibold.otf') format('otf');	 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../fonts/iransans/woff/IRANSansX-extrabold.woff') format('woff'),   
+	url('../fonts/iransans/woff2/IRANSansX-extrabold.woff2') format('woff2'),	
+	url('../fonts/iransans/ttf/IRANsansX-extrabold.ttf') format('ttf'),
+	url('../fonts/iransans/eot/IRANSansX-extrabold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/iransans/otf/IRANsansX-extrabold.otf') format('otf');	 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 900;
+	src: url('../fonts/iransans/woff/IRANSansX-black.woff') format('woff'),   
+	url('../fonts/iransans/woff2/IRANSansX-black.woff2') format('woff2'),
+	url('../fonts/iransans/ttf/IRANsansX-black.ttf') format('ttf'),
+	url('../fonts/iransans/eot/IRANSansX-black.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/iransans/otf/IRANsansX-black.otf') format('otf');	 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../fonts/iransans/woff/IRANSansX-bold.woff') format('woff'),   
+	url('../fonts/iransans/woff2/IRANSansX-bold.woff2') format('woff2'),
+	url('../fonts/iransans/ttf/IRANsansX-bold.ttf') format('ttf'),
+	url('../fonts/iransans/eot/IRANSansX-bold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/iransans/otf/IRANsansX-bold.otf') format('otf'); 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/iransans/woff/IRANSansX-regular.woff') format('woff'),   
+	url('../fonts/iransans/woff2/IRANSansX-regular.woff2') format('woff2'),
+	url('../fonts/iransans/ttf/IRANsansX-regular.ttf') format('ttf'),
+	url('../fonts/iransans/eot/IRANSansX-regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/iransans/otf/IRANsansX-regular.otf') format('otf');
+
+}
+
+
