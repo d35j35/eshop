@@ -205,12 +205,19 @@
 
 .ts_detail {
     flex-grow: 2;
-    border: 1px solid red;
     margin: 10px;
+    width: 40%;
+}
+
+.s_thumb {
+    border: 1px solid silver;
+    padding: 5px;
+    margin: 10px 0 5px 8px;
 }
 
 .ts_list {
     flex-grow: 3;
+    width: 60%;
 }
 
 .ts_productlist {
@@ -223,25 +230,115 @@
 }
 
 .ts_productitemdetail {
-    border: 1px solid red;
+    border: 1px solid #ddd;
     margin: 10px;
     padding: 10px;
 }
-.productimage{
+
+.productimage {
     width: 100%;
 }
-.producttitle{
+
+.producttitle {
     color: #000;
     display: block;
 }
-.producttitle:hover{
-color: #f4a137;
+
+.producttitle:hover {
+    color: #f4a137;
 }
-.priceitem{
+
+.priceitem {
     color: red;
 }
-.productaction{
+
+.productaction {
     margin: 10px 0;
+}
+
+.productimageovely {
+    position: relative;
+    overflow: hidden;
+}
+
+.overlyimage {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    width: 100%;
+    opacity: 0;
+    transition: all 0.1s linear;
+}
+
+.ts_productitemdetail:hover .overlyimage {
+    top: 0;
+    opacity: 1;
+}
+
+.ts_productitemdetail:hover .btn_default {
+    top: 50%;
+    opacity: 1;
+}
+
+.ts_productitemdetail .btn_default {
+    position: absolute;
+    top: -100%;
+    right: 0;
+    width: 100%;
+    opacity: 0;
+    transition: all 0.4s linear;
+}
+
+.banner {
+    padding: 10px;
+}
+
+.banner img {
+    width: 100%;
+    display: block;
+}
+
+.banner_kenar_jadval a {
+    margin: 40px 0 0 10px;
+}
+
+.img_tak {
+    padding: 5px 0 0 0;
+}
+
+.newproductitems {
+    width: 25%;
+}
+
+.colloctionitem {
+    width: 16.5%;
+    flex-grow: 1;
+}
+
+.colloctionditailitem {
+    background-color: #eee;
+    border: 2px solid transparent;
+    margin: 5px;
+}
+.colloctionditailitem:hover{
+    border-color: #f4a137;
+    background-color: #fff;
+}
+
+.colloctionlink {
+    display: block;
+    border-bottom: 3px solid #f4a137;
+    position: relative;
+}
+
+.collectiontitle {
+    position: absolute;
+    top: 5px;
+    right: 0;
+    display: block;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
 }
 
 
