@@ -320,7 +320,8 @@
     border: 2px solid transparent;
     margin: 5px;
 }
-.colloctionditailitem:hover{
+
+.colloctionditailitem:hover {
     border-color: #f4a137;
     background-color: #fff;
 }
@@ -340,6 +341,92 @@
     width: 100%;
     font-weight: bold;
 }
+
+.hotsaleitemcontainer {
+    flex-wrap: wrap;
+}
+
+.hotsaleitem {
+    width: 33%;
+    flex-grow: 1;
+}
+
+.hotsaledetail {
+    margin: 10px;
+    border: 1px solid #ddd;
+}
+
+.hotsaleimage {
+    width: 150px;
+}
+
+.hotsaleimage img {
+    width: 100%;
+}
+
+.hotsaleinfo {
+    flex-grow: 1;
+}
+
+.hotcategoryitem {
+    width: 25%;
+}
+
+.hotcategorydeteils {
+    margin: 10px;
+}
+
+.hotcategoryimage {
+    position: relative;
+}
+
+.hotcategoryimage .btn {
+    position: absolute;
+    bottom: 27px;
+    right: 179px;
+}
+
+.hotcategoryimage img {
+    width: 100%;
+}
+
+.linkhotcategory {
+    margin-top: -28px;
+    display: block;
+    color: #444;
+}
+
+.linkhotcategory:hover {
+    color: #f4a137;
+    transition: all 0.2s linear;
+}
+
+.linksht_category {
+    font-size: 12px;
+    padding: 2px 2px;
+    margin-right: 25px;
+}
+
+.linksht_category:hover {
+    background-color: #555;
+}
+.hotcategorylist{
+    margin-top: -14px;
+}
+.hotcategorylistitem{
+    list-style-type: square;
+    color: silver;
+}
+.hotcategorylistitem:hover,
+.hotcategorylistlink:hover{
+    color: #f4a137;
+    transition: all 0.2s linear;
+}
+.hotcategorylistlink{
+    color: #444;
+    
+}
+
 
 
 /*  footer  */
